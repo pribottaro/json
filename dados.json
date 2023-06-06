@@ -1,0 +1,20 @@
+{
+    "usuarios": [
+      {
+        "nome": "Carlos",
+        "idade": 38
+      },
+      {
+        "nome": "Marília",
+        "idade": 27
+      },      
+      {
+        "nome": "Josefa",
+        "idade": 20
+      },  
+      {
+        "nome": "Viviane",
+        "idade": 14
+      }
+    ]
+  }
